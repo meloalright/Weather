@@ -20,7 +20,7 @@ struct AQIView: View {
                     Spacer()
                     Spacer()
                 }
-            }
+            }.padding(.horizontal, 2)
             Text("优")
         }.padding()
         
